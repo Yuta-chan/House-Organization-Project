@@ -11,3 +11,5 @@ venv/
 *.sav
 *.pkl
 *.pickle
+
+flaskapp/
